@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009728853141",
+    "project_id": "medi-quick-24cb1",
+    "storage_bucket": "medi-quick-24cb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009728853141:android:bdff5404fd579c53e9379c",
+        "android_client_info": {
+          "package_name": "com.mediquick.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU3EtHLD2HHn3yOIAXQUraRxfdhYUHYdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
